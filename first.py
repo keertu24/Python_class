@@ -72,3 +72,5 @@ str3=str1+" "+str2
 print(str3.capitalize())
 print(str3.upper())
 print(str3.lower())
+
+# Hello this is keerthan 
